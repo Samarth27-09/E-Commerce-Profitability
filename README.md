@@ -1,7 +1,3 @@
-Of course. Here is the content formatted professionally for a GitHub `README.md` file using Markdown.
-
------
-
 # E-Commerce Profitability & Category Growth Strategy
 
 This end-to-end analytics project analyzes Brazilian e-commerce data to identify profitability opportunities and category growth strategies. Using the Olist dataset, we built comprehensive SQL data models, Excel-based financial analysis, and interactive Power BI dashboards to drive strategic business decisions.
